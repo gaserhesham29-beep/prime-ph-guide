@@ -1,0 +1,35 @@
+{
+  "id": "./",
+  "name": "دليل الصيدلي — Prime PH",
+  "short_name": "Prime PH",
+  "description": "دليل تشغيل نقطة البيع لصيدلية التعاون: من فتح الوردية والبيع وطباعة الباركود حتى إغلاق الكاشير. إصدار رسمي من Rabtek.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4f7fb",
+  "theme_color": "#0e2d64",
+  "categories": ["business", "productivity", "reference"],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
